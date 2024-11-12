@@ -68,7 +68,7 @@ code for ss 4:
 <div style="width: 360px; height: 640px; position: relative; background-image: url(https://via.placeholder.com/360x640)">
   <div style="width: 313px; height: 116px; left: 62px; top: 54px; position: absolute; color: #FA00FF; font-size: 48px; font-family: Inter; font-style: italic; font-weight: 300; word-wrap: break-word">THANK<br/>        YOU!</div>
   <div style="width: 175px; height: 33px; left: 17px; top: 209px; position: absolute"><span style="color: #DE0DB0; font-size: 30px; font-family: Inter; font-weight: 600; word-wrap: break-word">C0NTACT:<br/></span><span style="color: #FF1010; font-size: 30px; font-family: Inter; font-weight: 600; word-wrap: break-word">      <br/></span></div>
-  <div style="width: 304px; height: 138px; left: 71px; top: 267px; position: absolute"><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">Hariharan.A<br/></span><span style="color: #FF1010; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/></span><span style="color: #080E06; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">hariharana59@gmail.com<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/>9360167882<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/><br/></span></div>
+  <div style="width: 304px; height: 138px; left: 71px; top: 267px; position: absolute"><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">pynam vinodh<br/></span><span style="color: #FF1010; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/></span><span style="color: #080E06; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">pyvinodh@gmail.com<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/>8639853121<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/><br/></span></div>
 </div>
 
 ```
@@ -76,7 +76,8 @@ code for ss 4:
 ![Screenshot 2024-04-27 230927](https://github.com/user-attachments/assets/220fffcd-1952-4ff6-bc16-0e403bfdbd42)
 ![Screenshot 2024-04-27 230954](https://github.com/user-attachments/assets/f87b1cc8-f56d-4bb3-ba65-41fd6186a652)
 ![Screenshot 2024-04-27 231004](https://github.com/user-attachments/assets/5ea6d6c4-5772-4e05-96a7-85f8a6d4aa81)
-![Screenshot 2024-04-27 231021](https://github.com/user-attachments/assets/b2a10e6a-6327-4279-9eec-2e5be7479d45)
+![morph](https://github.com/user-attachments/assets/e7870760-bb16-40d5-9de0-ab7b77155460)
+
 
 
 ## RESULT:
